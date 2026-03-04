@@ -36,7 +36,9 @@ Uygulamayı bilgisayarınızda yerel ortamda çalıştırmak için aşağıdaki 
 
 ## 📺 Youtube liste dışı uygulama çalışıyorken çekilmiş kısa  video
 
+ - https://youtube.com/shorts/R1kTkNjPKVc
 
+--- https://youtube.com/shorts/R1kTkNjPKVc
 
 ---
 
@@ -44,4 +46,5 @@ Uygulamayı bilgisayarınızda yerel ortamda çalıştırmak için aşağıdaki 
 
 - **Android (APK)**: https://expo.dev/accounts/abou1111/projects/PreDiabetes/builds/88adb202-c00a-458c-9302-c8aab60b2e3e
 
-yada /release/Apk_file.apk
+the location of Apk file: 
+/release/Apk_file.apk
