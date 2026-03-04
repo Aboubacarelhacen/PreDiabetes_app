@@ -34,14 +34,14 @@ Uygulamayı bilgisayarınızda yerel ortamda çalıştırmak için aşağıdaki 
 
 ---
 
-## 📺 Youtube liste dışı uygulama çalışıyorken çekilmiş kısa (max 1 dk) video
+## 📺 Youtube liste dışı uygulama çalışıyorken çekilmiş kısa  video
 
-[**VİDEO LİNKİ BURAYA EKLENECEK**]
-*(Lütfen videonuzu YouTube'a "Liste Dışı" (Unlisted) olarak yükleyin ve bağlantısını buraya yapıştırın)*
+
 
 ---
 
 ## 📦 APK / IPA dosyaları
 
-- **Android (APK)**: [APK İNDİRME LİNKİ BURAYA EKLENECEK]
-- **iOS (IPA)**: IOS IPA dosyaları Apple Developer hesap gereksinimlerinden dolayı doğrudan kuruluma kapalıdır. iOS üzerinde test etmek isterseniz üstte belirtilen Expo uygulaması üzerinden çalıştırabilirsiniz.
+- **Android (APK)**: https://expo.dev/accounts/abou1111/projects/PreDiabetes/builds/88adb202-c00a-458c-9302-c8aab60b2e3e
+
+yada /release/Apk_file.apk
